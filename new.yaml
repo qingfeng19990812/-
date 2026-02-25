@@ -1,0 +1,8 @@
+proxies:
+- name: 🇭🇰HK²_1|4.6MB/s
+  password: ""
+  port: 40000
+  server: 115.212.100.55
+  skip-cert-verify: true
+  type: socks5
+  username: ""
