@@ -1,0 +1,8 @@
+proxies:
+- name: 🇺🇸US²_1|1.4MB/s
+  password: 6286105c-fb6d-11ef-be96-f23c93136cb3
+  port: 3443
+  server: 358f5e41-tb6f40-tb70mp-4550.seadc2.cdnbytescm.com
+  tls: true
+  type: http
+  username: 6286105c-fb6d-11ef-be96-f23c93136cb3
